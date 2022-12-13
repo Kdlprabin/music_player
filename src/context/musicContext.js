@@ -1,5 +1,5 @@
-import {createContext} from "react";
+import { createContext } from 'react';
 
-const musicContext = createContext();
+const MusicContext = createContext();
 
-export default musicContext;
+export default MusicContext;
