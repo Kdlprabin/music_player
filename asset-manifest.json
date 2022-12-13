@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/music_player/static/css/main.d04a9a6c.css",
+    "main.js": "/music_player/static/js/main.4916b14f.js",
+    "static/js/787.ded37e57.chunk.js": "/music_player/static/js/787.ded37e57.chunk.js",
+    "static/media/song1.mp3": "/music_player/static/media/song1.41dd353c626b7e13d0a3.mp3",
+    "static/media/song2.mp3": "/music_player/static/media/song2.f25815e07e426d3312df.mp3",
+    "static/media/song3.mp3": "/music_player/static/media/song3.24d875621b339b5a66dd.mp3",
+    "static/media/image1.jpg": "/music_player/static/media/image1.896135d72a27d266b664.jpg",
+    "static/media/image2.png": "/music_player/static/media/image2.dbb92d4bcb8555338a2f.png",
+    "index.html": "/music_player/index.html",
+    "main.d04a9a6c.css.map": "/music_player/static/css/main.d04a9a6c.css.map",
+    "main.4916b14f.js.map": "/music_player/static/js/main.4916b14f.js.map",
+    "787.ded37e57.chunk.js.map": "/music_player/static/js/787.ded37e57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d04a9a6c.css",
+    "static/js/main.4916b14f.js"
+  ]
+}
