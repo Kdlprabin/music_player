@@ -1,13 +1,11 @@
 import './App.css';
-import Navbar from './components/Navbar';
-import Profile from './components/Profile';
-import MusicState from './context/MusicState';
+import NoteState from './context/MusicState'
+import SongCard from './components/SongCard'
 function App() {
   return (
-    <MusicState>
-    <Navbar/>
-    <Profile/>
-    </MusicState>
+    <NoteState>
+      <SongCard/>
+    </NoteState>
   );
 }
 
